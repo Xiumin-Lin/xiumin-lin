@@ -9,7 +9,7 @@ Other areas too, but just a little less
 
 ## 📊 Most Used languages
 <p align="center">
-    <img alt="Xiumin Lin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiumin-Lin&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_title=true" />
+    <img alt="Xiumin Lin's Top Languages" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=xiumin-Lin&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_title=true" />
 </p>
 
 
